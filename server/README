@@ -1,0 +1,13 @@
+Tabris SDK 0.6.0 Server Parts
+=============================
+
+The server part folder contains two artifacts.
+
+a) The helloworld example. See this tutorial for more information: http://developer.eclipsesource.com/tabris/developers/create-a-hello-tabris/
+
+b) The p2 repository with all dependencies. This can be used as your Eclipse Target-Platform. See this tutorial: http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.pde.doc.user%2Fguide%2Ftools%2Fpreference_pages%2Ftarget_platform.htm
+
+The server-parts are licensed under the Eclipse Public License v 1.0: http://www.eclipse.org/legal/epl-v10.html
+
+-----------------------
+http://developer.eclipsesource.com/tabris/
