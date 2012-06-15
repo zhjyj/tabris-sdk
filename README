@@ -1,0 +1,13 @@
+Tabris SDK 0.6.0
+================
+
+The Tabris SDK contains all files necessary for developing the Tabris Server-Side and the Clients. The following content is included:
+
+ios - All artifacts for developing/brand an own iOS Client.
+android - All artifacts for developing/brand an own Android Client.
+server - All Artifacts for developing the Server/Java Side aka. an Application.
+
+For licensing information see the README file sin teh different subfolders. Please note that not all parts are licensed with an open-source license.
+
+-----------------------
+http://developer.eclipsesource.com/tabris/
