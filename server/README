@@ -10,8 +10,8 @@ b) The p2 repository with all dependencies. This can be used as your Eclipse Tar
    See this tutorial: 
    http://help.eclipse.org/indigo/index.jsp?topic=%2Forg.eclipse.pde.doc.user%2Fguide%2Ftools%2Fpreference_pages%2Ftarget_platform.htm
 
-The server-parts are licensed under the Eclipse Public 
-License v 1.0: http://www.eclipse.org/legal/epl-v10.html
+The server-parts are licensed under the Eclipse Public License v 1.0: 
+http://www.eclipse.org/legal/epl-v10.html
 
 -----------------------
 http://developer.eclipsesource.com/tabris/
