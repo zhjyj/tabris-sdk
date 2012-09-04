@@ -1,10 +1,8 @@
-Tabris SDK 0.6.1 iOS Client Parts
+Tabris SDK 0.7.0 iOS Client Parts
 =================================
 
 The 'ios' folder contains the LICENSE and an installer to add a project template and the required templates to Xcode.
 This will enable you to build your own Tabris client for iOS.
-
-The tutorial is available at http://developer.eclipsesource.com/tabris/docs/getting-started-with-ios-sdk/
 
 -----------------------
 http://developer.eclipsesource.com/tabris/
