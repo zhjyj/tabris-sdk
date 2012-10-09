@@ -1,5 +1,5 @@
-Tabris SDK 0.7.0 Android Client Parts
-=====================================
+Tabris SDK 0.7.0a Android Client Parts
+======================================
 
 The android folder contains the LICENSE and a zip archive with the required Eclipse projects of Tabris for Android.
 The eclipse projects will enable you to build your own Tabris client for Android.
