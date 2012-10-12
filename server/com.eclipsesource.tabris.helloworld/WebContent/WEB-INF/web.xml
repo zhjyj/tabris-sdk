@@ -10,7 +10,7 @@
   </context-param>
  
   <listener>
-    <listener-class>org.eclipse.rwt.engine.RWTServletContextListener</listener-class>
+    <listener-class>org.eclipse.rap.rwt.engine.RWTServletContextListener</listener-class>
   </listener>
  
   <servlet>
