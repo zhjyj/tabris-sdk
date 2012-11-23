@@ -15,7 +15,7 @@
  
   <servlet>
     <servlet-name>rwtServlet</servlet-name>
-    <servlet-class>org.eclipse.rwt.engine.RWTServlet</servlet-class>
+    <servlet-class>org.eclipse.rap.rwt.engine.RWTServlet</servlet-class>
   </servlet>
  
   <servlet-mapping>
