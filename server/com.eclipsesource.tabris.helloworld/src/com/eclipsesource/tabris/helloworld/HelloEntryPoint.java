@@ -1,5 +1,5 @@
 package com.eclipsesource.tabris.helloworld;
-import org.eclipse.rap.rwt.lifecycle.IEntryPoint;
+import org.eclipse.rap.rwt.application.EntryPoint;
 import org.eclipse.rap.rwt.widgets.DialogUtil;
 import org.eclipse.swt.SWT;
 import org.eclipse.swt.events.SelectionAdapter;
@@ -11,7 +11,7 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.MessageBox;
 import org.eclipse.swt.widgets.Shell;
 
-public class EntryPoint implements IEntryPoint {
+public class HelloEntryPoint implements EntryPoint {
 
   @Override
   public int createUI() {

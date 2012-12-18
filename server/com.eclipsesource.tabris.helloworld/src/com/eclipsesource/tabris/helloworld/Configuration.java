@@ -5,13 +5,13 @@ import org.eclipse.rap.rwt.application.ApplicationConfiguration;
 
 import com.eclipsesource.tabris.Bootstrapper;
 
-public class Configuration
-  implements ApplicationConfiguration
+public class Configuration implements ApplicationConfiguration
 {
 
   @Override
   public void configure( Application application ) {
-    Bootstrapper.bootstrap( application );
-    application.addEntryPoint( "/helloworld", EntryPoint.class, null );
+	  Bootstrapper bootstrapper = new Bootstrapper( application );
+    bootstrapper.bootstrap();
+    application.addEntryPoint( "/helloworld", HelloEntryPoint.class, null );
   }
 }
